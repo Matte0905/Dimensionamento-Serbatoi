@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\temp\\Progetto\\Dimensionamento Serbatoi\\",
+  "WorkspaceRootPath": "D:\\git\\Dimensionamento-Serbatoi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|d:\\temp\\progetto\\dimensionamento serbatoi\\verifica specola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|d:\\git\\dimensionamento-serbatoi\\verifica specola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:verifica specola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Verifica Specola.cs [Progettazione]",
-              "DocumentMoniker": "D:\\temp\\Progetto\\Dimensionamento Serbatoi\\Verifica Specola.cs",
+              "DocumentMoniker": "D:\\git\\Dimensionamento-Serbatoi\\Verifica Specola.cs",
               "RelativeDocumentMoniker": "Verifica Specola.cs",
-              "ToolTip": "D:\\temp\\Progetto\\Dimensionamento Serbatoi\\Verifica Specola.cs [Progettazione]",
+              "ToolTip": "D:\\git\\Dimensionamento-Serbatoi\\Verifica Specola.cs [Progettazione]",
               "RelativeToolTip": "Verifica Specola.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T22:09:57.825Z",
