@@ -1,0 +1,21 @@
+D:\temp\Progetto\Dimensionamento Serbatoi\bin\Debug\net9.0-windows\Dimensionamento Serbatoi.exe
+D:\temp\Progetto\Dimensionamento Serbatoi\bin\Debug\net9.0-windows\Dimensionamento Serbatoi.deps.json
+D:\temp\Progetto\Dimensionamento Serbatoi\bin\Debug\net9.0-windows\Dimensionamento Serbatoi.runtimeconfig.json
+D:\temp\Progetto\Dimensionamento Serbatoi\bin\Debug\net9.0-windows\Dimensionamento Serbatoi.dll
+D:\temp\Progetto\Dimensionamento Serbatoi\bin\Debug\net9.0-windows\Dimensionamento Serbatoi.pdb
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.Form1.resources
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.csproj.GenerateResource.cache
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.AssemblyInfoInputs.cache
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.AssemblyInfo.cs
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.csproj.CoreCompileInputs.cache
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.dll
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\refint\Dimensionamento Serbatoi.dll
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.pdb
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.genruntimeconfig.cache
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\ref\Dimensionamento Serbatoi.dll
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.Dimensionamento.resources
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.Properties.Resources.resources
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.FormSelezionaTipoCalcolo.resources
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.TipoSerbatorio.resources
+D:\temp\Progetto\Dimensionamento Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.FormVerificaParete.resources
