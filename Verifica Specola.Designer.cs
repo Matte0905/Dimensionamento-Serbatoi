@@ -31,6 +31,7 @@
             label2 = new Label();
             lblTitolo = new Label();
             panelBulloni = new Panel();
+            label1 = new Label();
             btnSforzoBulloni = new Button();
             label11 = new Label();
             textBox9 = new TextBox();
@@ -45,7 +46,6 @@
             listBox1 = new ListBox();
             textBox3 = new TextBox();
             textBox7 = new TextBox();
-            label1 = new Label();
             btnIndietro = new Button();
             panelBulloni.SuspendLayout();
             SuspendLayout();
@@ -90,6 +90,15 @@
             panelBulloni.Name = "panelBulloni";
             panelBulloni.Size = new Size(2120, 350);
             panelBulloni.TabIndex = 18;
+            // 
+            // label1
+            // 
+            label1.Location = new Point(2037, 115);
+            label1.Name = "label1";
+            label1.Size = new Size(69, 31);
+            label1.TabIndex = 58;
+            label1.Text = "mm";
+            label1.TextAlign = ContentAlignment.TopCenter;
             // 
             // btnSforzoBulloni
             // 
@@ -217,15 +226,6 @@
             textBox7.Name = "textBox7";
             textBox7.Size = new Size(1700, 31);
             textBox7.TabIndex = 45;
-            // 
-            // label1
-            // 
-            label1.Location = new Point(2037, 115);
-            label1.Name = "label1";
-            label1.Size = new Size(69, 31);
-            label1.TabIndex = 58;
-            label1.Text = "mm";
-            label1.TextAlign = ContentAlignment.TopCenter;
             // 
             // btnIndietro
             // 

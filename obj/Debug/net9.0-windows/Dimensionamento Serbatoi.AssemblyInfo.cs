@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dimensionamento Serbatoi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df5bd50b28e217ef7209809af02a3ebd5e6e4882")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dimensionamento Serbatoi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dimensionamento Serbatoi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
