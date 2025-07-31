@@ -1,0 +1,13 @@
+# Cartella bin e obj di C#
+bin/
+obj/
+
+# File temporanei di Visual Studio
+*.user
+*.suo
+
+# File compilati
+*.exe
+*.dll
+*.vsidx
+*.suo
