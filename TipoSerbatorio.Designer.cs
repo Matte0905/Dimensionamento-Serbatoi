@@ -26,9 +26,8 @@
         /// Required method for Designer support - do not modify
         /// the contents of this method with the code editor.
         /// </summary>
-        private void InitializeComponent()
-        {
-            label5 = new Label();
+        private void InitializeComponent() {
+            lblTitolo = new Label();
             ListaSerbatoi = new Panel();
             radioBtnSferico = new RadioButton();
             radioBtnEllisoidale = new RadioButton();
@@ -42,22 +41,22 @@
             btnPrecedente = new Button();
             btnSuccessivo = new Button();
             panelDescSerbatoi = new Panel();
-            label1 = new Label();
             lblDescSerbatoio = new Label();
+            label1 = new Label();
             ListaSerbatoi.SuspendLayout();
             panelImmagine.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)immagineSerbatorio).BeginInit();
             panelDescSerbatoi.SuspendLayout();
             SuspendLayout();
             // 
-            // label5
+            // lblTitolo
             // 
-            label5.Font = new Font("Segoe UI", 18F);
-            label5.Location = new Point(850, 30);
-            label5.Name = "label5";
-            label5.Size = new Size(500, 48);
-            label5.TabIndex = 13;
-            label5.Text = "Seleziona il Tipo di Serbatoio";
+            lblTitolo.Font = new Font("Segoe UI", 18F);
+            lblTitolo.Location = new Point(850, 30);
+            lblTitolo.Name = "lblTitolo";
+            lblTitolo.Size = new Size(919, 48);
+            lblTitolo.TabIndex = 13;
+            lblTitolo.Text = "Seleziona il Tipo di Serbatoio";
             // 
             // ListaSerbatoi
             // 
@@ -185,6 +184,7 @@
             btnSuccessivo.TabIndex = 17;
             btnSuccessivo.Text = "Successivo";
             btnSuccessivo.UseVisualStyleBackColor = true;
+            btnSuccessivo.Click += btnSuccessivo_Click;
             // 
             // panelDescSerbatoi
             // 
@@ -193,6 +193,14 @@
             panelDescSerbatoi.Name = "panelDescSerbatoi";
             panelDescSerbatoi.Size = new Size(650, 750);
             panelDescSerbatoi.TabIndex = 18;
+            // 
+            // lblDescSerbatoio
+            // 
+            lblDescSerbatoio.Font = new Font("Segoe UI", 11F);
+            lblDescSerbatoio.Location = new Point(17, 32);
+            lblDescSerbatoio.Name = "lblDescSerbatoio";
+            lblDescSerbatoio.Size = new Size(600, 697);
+            lblDescSerbatoio.TabIndex = 0;
             // 
             // label1
             // 
@@ -203,14 +211,6 @@
             label1.Size = new Size(264, 36);
             label1.TabIndex = 19;
             label1.Text = "Descrizione Serbatoio";
-            // 
-            // lblDescSerbatoio
-            // 
-            lblDescSerbatoio.Font = new Font("Segoe UI", 11F);
-            lblDescSerbatoio.Location = new Point(17, 32);
-            lblDescSerbatoio.Name = "lblDescSerbatoio";
-            lblDescSerbatoio.Size = new Size(600, 697);
-            lblDescSerbatoio.TabIndex = 0;
             // 
             // TipoSerbatorio
             // 
@@ -223,7 +223,7 @@
             Controls.Add(btnPrecedente);
             Controls.Add(panelImmagine);
             Controls.Add(ListaSerbatoi);
-            Controls.Add(label5);
+            Controls.Add(lblTitolo);
             Name = "TipoSerbatorio";
             Text = "TipoSerbatorio";
             ListaSerbatoi.ResumeLayout(false);
@@ -236,7 +236,7 @@
 
         #endregion
 
-        private Label label5;
+        private Label lblTitolo;
         private Panel ListaSerbatoi;
         private RadioButton radioBtnSferico;
         private RadioButton radioBtnEllisoidale;

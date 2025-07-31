@@ -54,6 +54,7 @@
             btnIniziaCalcoloPressione.TabIndex = 0;
             btnIniziaCalcoloPressione.Text = "Inizia Calcolo a Pressione";
             btnIniziaCalcoloPressione.UseVisualStyleBackColor = true;
+            btnIniziaCalcoloPressione.Click += btnIniziaCalcoloPressione_Click;
             // 
             // radioBtnASME
             // 
@@ -106,6 +107,7 @@
             btnIniziaCalcoloSismico.TabIndex = 4;
             btnIniziaCalcoloSismico.Text = "Inizia Calcolo Sismico";
             btnIniziaCalcoloSismico.UseVisualStyleBackColor = true;
+            btnIniziaCalcoloSismico.Click += btnIniziaCalcoloSismico_Click;
             // 
             // panelCalcSismico
             // 

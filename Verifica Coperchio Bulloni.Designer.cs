@@ -168,7 +168,6 @@
             lblSforzoAmmissibile.Size = new Size(202, 30);
             lblSforzoAmmissibile.TabIndex = 50;
             lblSforzoAmmissibile.Text = "Sforzo Ammissibile:";
-            lblSforzoAmmissibile.Click += this.lblModuloElastico_Click;
             // 
             // label14
             // 
@@ -282,7 +281,6 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(1700, 31);
             textBox2.TabIndex = 51;
-            textBox2.TextChanged += this.textBox2_TextChanged;
             // 
             // lblNumBulloni
             // 
@@ -293,7 +291,6 @@
             lblNumBulloni.Size = new Size(193, 30);
             lblNumBulloni.TabIndex = 50;
             lblNumBulloni.Text = "Numero di Bulloni:";
-            lblNumBulloni.Click += this.lblModuloElastico_Click_1;
             // 
             // label5
             // 
@@ -303,7 +300,6 @@
             label5.TabIndex = 49;
             label5.Text = "MPa";
             label5.TextAlign = ContentAlignment.TopCenter;
-            label5.Click += this.label5_Click;
             // 
             // label6
             // 
@@ -313,7 +309,6 @@
             label6.TabIndex = 48;
             label6.Text = "mm";
             label6.TextAlign = ContentAlignment.TopCenter;
-            label6.Click += this.label6_Click;
             // 
             // label7
             // 
@@ -323,7 +318,6 @@
             label7.TabIndex = 47;
             label7.Text = "mm";
             label7.TextAlign = ContentAlignment.TopCenter;
-            label7.Click += this.label7_Click;
             // 
             // textBox3
             // 
@@ -332,7 +326,6 @@
             textBox3.ReadOnly = true;
             textBox3.Size = new Size(1700, 31);
             textBox3.TabIndex = 46;
-            textBox3.TextChanged += this.textBox3_TextChanged;
             // 
             // textBox7
             // 
@@ -340,7 +333,6 @@
             textBox7.Name = "textBox7";
             textBox7.Size = new Size(1700, 31);
             textBox7.TabIndex = 45;
-            textBox7.TextChanged += this.textBox7_TextChanged;
             // 
             // textBox8
             // 
@@ -348,7 +340,6 @@
             textBox8.Name = "textBox8";
             textBox8.Size = new Size(1700, 31);
             textBox8.TabIndex = 44;
-            textBox8.TextChanged += this.textBox8_TextChanged;
             // 
             // listBox1
             // 
@@ -359,7 +350,6 @@
             listBox1.Name = "listBox1";
             listBox1.Size = new Size(1700, 32);
             listBox1.TabIndex = 43;
-            listBox1.SelectedIndexChanged += this.listBox1_SelectedIndexChanged;
             // 
             // label8
             // 
@@ -370,7 +360,6 @@
             label8.Size = new Size(109, 30);
             label8.TabIndex = 39;
             label8.Text = "Materiale:";
-            label8.Click += this.label8_Click;
             // 
             // label9
             // 
@@ -381,7 +370,6 @@
             label9.Size = new Size(225, 30);
             label9.TabIndex = 42;
             label9.Text = "Pressione di Progetto:";
-            label9.Click += this.label9_Click;
             // 
             // lblDiametroFlangia
             // 
@@ -392,7 +380,6 @@
             lblDiametroFlangia.Size = new Size(258, 30);
             lblDiametroFlangia.TabIndex = 40;
             lblDiametroFlangia.Text = "Diametro Interno Flangia:";
-            lblDiametroFlangia.Click += this.lblDiametro_Click;
             // 
             // lblNoccBulloni
             // 
@@ -403,7 +390,6 @@
             lblNoccBulloni.Size = new Size(270, 30);
             lblNoccBulloni.TabIndex = 41;
             lblNoccBulloni.Text = "Diametro Nocciolo Bulloni:";
-            lblNoccBulloni.Click += this.label10_Click;
             // 
             // textBox9
             // 
@@ -432,7 +418,6 @@
             lblEsternoFlangia.Size = new Size(260, 30);
             lblEsternoFlangia.TabIndex = 54;
             lblEsternoFlangia.Text = "Diametro Esterno Flangia:";
-            lblEsternoFlangia.Click += this.label11_Click;
             // 
             // label15
             // 
@@ -442,7 +427,6 @@
             label15.TabIndex = 56;
             label15.Text = "mm";
             label15.TextAlign = ContentAlignment.TopCenter;
-            label15.Click += this.label15_Click_1;
             // 
             // textBox10
             // 
@@ -450,7 +434,6 @@
             textBox10.Name = "textBox10";
             textBox10.Size = new Size(1700, 31);
             textBox10.TabIndex = 55;
-            textBox10.TextChanged += this.textBox10_TextChanged;
             // 
             // label11
             // 
