@@ -33,7 +33,7 @@
             radioBtnEllisoidale = new RadioButton();
             radioBtnEmisferico = new RadioButton();
             radioBtnConico = new RadioButton();
-            radioButton2 = new RadioButton();
+            radioBtnAnello = new RadioButton();
             radioBtnFondoPiatto = new RadioButton();
             radioBtnTorisferico = new RadioButton();
             panelImmagine = new Panel();
@@ -64,7 +64,7 @@
             ListaSerbatoi.Controls.Add(radioBtnEllisoidale);
             ListaSerbatoi.Controls.Add(radioBtnEmisferico);
             ListaSerbatoi.Controls.Add(radioBtnConico);
-            ListaSerbatoi.Controls.Add(radioButton2);
+            ListaSerbatoi.Controls.Add(radioBtnAnello);
             ListaSerbatoi.Controls.Add(radioBtnFondoPiatto);
             ListaSerbatoi.Controls.Add(radioBtnTorisferico);
             ListaSerbatoi.Location = new Point(55, 105);
@@ -116,16 +116,16 @@
             radioBtnConico.Text = "Cilindrico con Fondo Conico";
             radioBtnConico.UseVisualStyleBackColor = true;
             // 
-            // radioButton2
+            // radioBtnAnello
             // 
-            radioButton2.Font = new Font("Segoe UI", 11F);
-            radioButton2.Location = new Point(30, 650);
-            radioButton2.Name = "radioButton2";
-            radioButton2.Size = new Size(350, 50);
-            radioButton2.TabIndex = 4;
-            radioButton2.TabStop = true;
-            radioButton2.Text = "Serbatoio ad Anello";
-            radioButton2.UseVisualStyleBackColor = true;
+            radioBtnAnello.Font = new Font("Segoe UI", 11F);
+            radioBtnAnello.Location = new Point(30, 650);
+            radioBtnAnello.Name = "radioBtnAnello";
+            radioBtnAnello.Size = new Size(350, 50);
+            radioBtnAnello.TabIndex = 4;
+            radioBtnAnello.TabStop = true;
+            radioBtnAnello.Text = "Serbatoio ad Anello";
+            radioBtnAnello.UseVisualStyleBackColor = true;
             // 
             // radioBtnFondoPiatto
             // 
@@ -242,7 +242,7 @@
         private RadioButton radioBtnEllisoidale;
         private RadioButton radioBtnEmisferico;
         private RadioButton radioBtnConico;
-        private RadioButton radioButton2;
+        private RadioButton radioBtnAnello;
         private RadioButton radioBtnFondoPiatto;
         private RadioButton radioBtnTorisferico;
         private Panel panelImmagine;

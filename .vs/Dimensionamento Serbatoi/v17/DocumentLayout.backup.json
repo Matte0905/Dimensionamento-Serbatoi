@@ -11,8 +11,12 @@
       "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:tipodicalcolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|d:\\git\\dimensionamento-serbatoi\\tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|D:\\git\\Dimensionamento-Serbatoi\\tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|d:\\git\\dimensionamento-serbatoi\\verificaparete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:verificaparete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -38,28 +42,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TipoSerbatorio.cs",
-              "DocumentMoniker": "D:\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
-              "RelativeDocumentMoniker": "TipoSerbatorio.cs",
-              "ToolTip": "D:\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
-              "RelativeToolTip": "TipoSerbatorio.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAjwCIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:56:34.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TipoDiCalcolo.cs",
               "DocumentMoniker": "D:\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs",
               "RelativeDocumentMoniker": "TipoDiCalcolo.cs",
               "ToolTip": "D:\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs",
               "RelativeToolTip": "TipoDiCalcolo.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T16:31:47.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipoSerbatorio.cs",
+              "DocumentMoniker": "D:\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
+              "RelativeDocumentMoniker": "TipoSerbatorio.cs",
+              "ToolTip": "D:\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
+              "RelativeToolTip": "TipoSerbatorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:56:34.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VerificaParete.cs",
+              "DocumentMoniker": "D:\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs",
+              "RelativeDocumentMoniker": "VerificaParete.cs",
+              "ToolTip": "D:\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs",
+              "RelativeToolTip": "VerificaParete.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T20:12:26.084Z",
               "EditorCaption": ""
             }
           ]
