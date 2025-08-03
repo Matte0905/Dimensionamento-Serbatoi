@@ -26,7 +26,8 @@
         /// Required method for Designer support - do not modify
         /// the contents of this method with the code editor.
         /// </summary>
-        private void InitializeComponent() {
+        private void InitializeComponent()
+        {
             lblTitolo = new Label();
             ListaSerbatoi = new Panel();
             radioBtnSferico = new RadioButton();
@@ -42,7 +43,7 @@
             btnSuccessivo = new Button();
             panelDescSerbatoi = new Panel();
             lblDescSerbatoio = new Label();
-            label1 = new Label();
+            lblTitoloDescSerbatoio = new Label();
             ListaSerbatoi.SuspendLayout();
             panelImmagine.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)immagineSerbatorio).BeginInit();
@@ -52,9 +53,10 @@
             // lblTitolo
             // 
             lblTitolo.Font = new Font("Segoe UI", 18F);
-            lblTitolo.Location = new Point(850, 30);
+            lblTitolo.Location = new Point(595, 18);
+            lblTitolo.Margin = new Padding(2, 0, 2, 0);
             lblTitolo.Name = "lblTitolo";
-            lblTitolo.Size = new Size(919, 48);
+            lblTitolo.Size = new Size(643, 29);
             lblTitolo.TabIndex = 13;
             lblTitolo.Text = "Seleziona il Tipo di Serbatoio";
             // 
@@ -67,17 +69,19 @@
             ListaSerbatoi.Controls.Add(radioBtnAnello);
             ListaSerbatoi.Controls.Add(radioBtnFondoPiatto);
             ListaSerbatoi.Controls.Add(radioBtnTorisferico);
-            ListaSerbatoi.Location = new Point(55, 105);
+            ListaSerbatoi.Location = new Point(38, 63);
+            ListaSerbatoi.Margin = new Padding(2, 2, 2, 2);
             ListaSerbatoi.Name = "ListaSerbatoi";
-            ListaSerbatoi.Size = new Size(650, 750);
+            ListaSerbatoi.Size = new Size(455, 450);
             ListaSerbatoi.TabIndex = 14;
             // 
             // radioBtnSferico
             // 
             radioBtnSferico.Font = new Font("Segoe UI", 11F);
-            radioBtnSferico.Location = new Point(30, 550);
+            radioBtnSferico.Location = new Point(21, 330);
+            radioBtnSferico.Margin = new Padding(2, 2, 2, 2);
             radioBtnSferico.Name = "radioBtnSferico";
-            radioBtnSferico.Size = new Size(350, 50);
+            radioBtnSferico.Size = new Size(245, 30);
             radioBtnSferico.TabIndex = 9;
             radioBtnSferico.TabStop = true;
             radioBtnSferico.Text = "Serbatoio Sferico";
@@ -86,9 +90,10 @@
             // radioBtnEllisoidale
             // 
             radioBtnEllisoidale.Font = new Font("Segoe UI", 11F);
-            radioBtnEllisoidale.Location = new Point(30, 150);
+            radioBtnEllisoidale.Location = new Point(21, 90);
+            radioBtnEllisoidale.Margin = new Padding(2, 2, 2, 2);
             radioBtnEllisoidale.Name = "radioBtnEllisoidale";
-            radioBtnEllisoidale.Size = new Size(350, 50);
+            radioBtnEllisoidale.Size = new Size(245, 30);
             radioBtnEllisoidale.TabIndex = 8;
             radioBtnEllisoidale.TabStop = true;
             radioBtnEllisoidale.Text = "Cilindrico con Fondo Ellisoidale";
@@ -97,9 +102,10 @@
             // radioBtnEmisferico
             // 
             radioBtnEmisferico.Font = new Font("Segoe UI", 11F);
-            radioBtnEmisferico.Location = new Point(30, 250);
+            radioBtnEmisferico.Location = new Point(21, 150);
+            radioBtnEmisferico.Margin = new Padding(2, 2, 2, 2);
             radioBtnEmisferico.Name = "radioBtnEmisferico";
-            radioBtnEmisferico.Size = new Size(350, 50);
+            radioBtnEmisferico.Size = new Size(245, 30);
             radioBtnEmisferico.TabIndex = 7;
             radioBtnEmisferico.TabStop = true;
             radioBtnEmisferico.Text = "Cilindrico con Fondo Emisferico";
@@ -108,9 +114,10 @@
             // radioBtnConico
             // 
             radioBtnConico.Font = new Font("Segoe UI", 11F);
-            radioBtnConico.Location = new Point(30, 350);
+            radioBtnConico.Location = new Point(21, 210);
+            radioBtnConico.Margin = new Padding(2, 2, 2, 2);
             radioBtnConico.Name = "radioBtnConico";
-            radioBtnConico.Size = new Size(350, 50);
+            radioBtnConico.Size = new Size(245, 30);
             radioBtnConico.TabIndex = 6;
             radioBtnConico.TabStop = true;
             radioBtnConico.Text = "Cilindrico con Fondo Conico";
@@ -119,9 +126,10 @@
             // radioBtnAnello
             // 
             radioBtnAnello.Font = new Font("Segoe UI", 11F);
-            radioBtnAnello.Location = new Point(30, 650);
+            radioBtnAnello.Location = new Point(21, 390);
+            radioBtnAnello.Margin = new Padding(2, 2, 2, 2);
             radioBtnAnello.Name = "radioBtnAnello";
-            radioBtnAnello.Size = new Size(350, 50);
+            radioBtnAnello.Size = new Size(245, 30);
             radioBtnAnello.TabIndex = 4;
             radioBtnAnello.TabStop = true;
             radioBtnAnello.Text = "Serbatoio ad Anello";
@@ -130,9 +138,10 @@
             // radioBtnFondoPiatto
             // 
             radioBtnFondoPiatto.Font = new Font("Segoe UI", 11F);
-            radioBtnFondoPiatto.Location = new Point(30, 450);
+            radioBtnFondoPiatto.Location = new Point(21, 270);
+            radioBtnFondoPiatto.Margin = new Padding(2, 2, 2, 2);
             radioBtnFondoPiatto.Name = "radioBtnFondoPiatto";
-            radioBtnFondoPiatto.Size = new Size(350, 50);
+            radioBtnFondoPiatto.Size = new Size(245, 30);
             radioBtnFondoPiatto.TabIndex = 3;
             radioBtnFondoPiatto.TabStop = true;
             radioBtnFondoPiatto.Text = "Cilindrico con Fondo Piatto";
@@ -141,9 +150,10 @@
             // radioBtnTorisferico
             // 
             radioBtnTorisferico.Font = new Font("Segoe UI", 11F);
-            radioBtnTorisferico.Location = new Point(30, 50);
+            radioBtnTorisferico.Location = new Point(21, 30);
+            radioBtnTorisferico.Margin = new Padding(2, 2, 2, 2);
             radioBtnTorisferico.Name = "radioBtnTorisferico";
-            radioBtnTorisferico.Size = new Size(350, 50);
+            radioBtnTorisferico.Size = new Size(245, 30);
             radioBtnTorisferico.TabIndex = 2;
             radioBtnTorisferico.TabStop = true;
             radioBtnTorisferico.Text = "Cilindrico con Fondo Torisferico";
@@ -152,25 +162,28 @@
             // panelImmagine
             // 
             panelImmagine.Controls.Add(immagineSerbatorio);
-            panelImmagine.Location = new Point(776, 105);
+            panelImmagine.Location = new Point(543, 63);
+            panelImmagine.Margin = new Padding(2, 2, 2, 2);
             panelImmagine.Name = "panelImmagine";
-            panelImmagine.Size = new Size(650, 750);
+            panelImmagine.Size = new Size(455, 450);
             panelImmagine.TabIndex = 15;
             // 
             // immagineSerbatorio
             // 
-            immagineSerbatorio.Location = new Point(18, 32);
+            immagineSerbatorio.Location = new Point(13, 19);
+            immagineSerbatorio.Margin = new Padding(2, 2, 2, 2);
             immagineSerbatorio.Name = "immagineSerbatorio";
-            immagineSerbatorio.Size = new Size(611, 697);
+            immagineSerbatorio.Size = new Size(428, 418);
             immagineSerbatorio.TabIndex = 0;
             immagineSerbatorio.TabStop = false;
             // 
             // btnPrecedente
             // 
             btnPrecedente.Font = new Font("Segoe UI", 15F, FontStyle.Bold);
-            btnPrecedente.Location = new Point(1435, 890);
+            btnPrecedente.Location = new Point(1004, 534);
+            btnPrecedente.Margin = new Padding(2, 2, 2, 2);
             btnPrecedente.Name = "btnPrecedente";
-            btnPrecedente.Size = new Size(350, 70);
+            btnPrecedente.Size = new Size(245, 42);
             btnPrecedente.TabIndex = 16;
             btnPrecedente.Text = "Precedente";
             btnPrecedente.UseVisualStyleBackColor = true;
@@ -178,9 +191,10 @@
             // btnSuccessivo
             // 
             btnSuccessivo.Font = new Font("Segoe UI", 15F, FontStyle.Bold);
-            btnSuccessivo.Location = new Point(1800, 890);
+            btnSuccessivo.Location = new Point(1260, 534);
+            btnSuccessivo.Margin = new Padding(2, 2, 2, 2);
             btnSuccessivo.Name = "btnSuccessivo";
-            btnSuccessivo.Size = new Size(350, 70);
+            btnSuccessivo.Size = new Size(245, 42);
             btnSuccessivo.TabIndex = 17;
             btnSuccessivo.Text = "Successivo";
             btnSuccessivo.UseVisualStyleBackColor = true;
@@ -189,41 +203,45 @@
             // panelDescSerbatoi
             // 
             panelDescSerbatoi.Controls.Add(lblDescSerbatoio);
-            panelDescSerbatoi.Location = new Point(1487, 105);
+            panelDescSerbatoi.Location = new Point(1041, 63);
+            panelDescSerbatoi.Margin = new Padding(2, 2, 2, 2);
             panelDescSerbatoi.Name = "panelDescSerbatoi";
-            panelDescSerbatoi.Size = new Size(650, 750);
+            panelDescSerbatoi.Size = new Size(455, 450);
             panelDescSerbatoi.TabIndex = 18;
             // 
             // lblDescSerbatoio
             // 
             lblDescSerbatoio.Font = new Font("Segoe UI", 11F);
-            lblDescSerbatoio.Location = new Point(17, 32);
+            lblDescSerbatoio.Location = new Point(12, 19);
+            lblDescSerbatoio.Margin = new Padding(2, 0, 2, 0);
             lblDescSerbatoio.Name = "lblDescSerbatoio";
-            lblDescSerbatoio.Size = new Size(600, 697);
+            lblDescSerbatoio.Size = new Size(420, 418);
             lblDescSerbatoio.TabIndex = 0;
             // 
-            // label1
+            // lblTitoloDescSerbatoio
             // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 13F);
-            label1.Location = new Point(1487, 77);
-            label1.Name = "label1";
-            label1.Size = new Size(264, 36);
-            label1.TabIndex = 19;
-            label1.Text = "Descrizione Serbatoio";
+            lblTitoloDescSerbatoio.AutoSize = true;
+            lblTitoloDescSerbatoio.Font = new Font("Segoe UI", 13F);
+            lblTitoloDescSerbatoio.Location = new Point(1041, 46);
+            lblTitoloDescSerbatoio.Margin = new Padding(2, 0, 2, 0);
+            lblTitoloDescSerbatoio.Name = "lblTitoloDescSerbatoio";
+            lblTitoloDescSerbatoio.Size = new Size(184, 25);
+            lblTitoloDescSerbatoio.TabIndex = 19;
+            lblTitoloDescSerbatoio.Text = "Descrizione Serbatoio";
             // 
             // TipoSerbatorio
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(2178, 994);
-            Controls.Add(label1);
+            ClientSize = new Size(1347, 596);
+            Controls.Add(lblTitoloDescSerbatoio);
             Controls.Add(panelDescSerbatoi);
             Controls.Add(btnSuccessivo);
             Controls.Add(btnPrecedente);
             Controls.Add(panelImmagine);
             Controls.Add(ListaSerbatoi);
             Controls.Add(lblTitolo);
+            Margin = new Padding(2, 2, 2, 2);
             Name = "TipoSerbatorio";
             Text = "TipoSerbatorio";
             ListaSerbatoi.ResumeLayout(false);
@@ -251,6 +269,6 @@
         private Button btnSuccessivo;
         private Panel panelDescSerbatoi;
         private Label lblDescSerbatoio;
-        private Label label1;
+        private Label lblTitoloDescSerbatoio;
     }
 }

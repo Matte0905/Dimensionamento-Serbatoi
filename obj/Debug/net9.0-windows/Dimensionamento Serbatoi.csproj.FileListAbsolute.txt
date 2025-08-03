@@ -45,3 +45,29 @@ D:\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbato
 D:\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\ref\Dimensionamento Serbatoi.dll
 D:\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.VerificaPareteEsternaAnello.resources
 D:\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.VerificaPareteInternaAnello.resources
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\bin\Debug\net9.0-windows\Dimensionamento Serbatoi.exe
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\bin\Debug\net9.0-windows\Dimensionamento Serbatoi.deps.json
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\bin\Debug\net9.0-windows\Dimensionamento Serbatoi.runtimeconfig.json
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\bin\Debug\net9.0-windows\Dimensionamento Serbatoi.dll
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\bin\Debug\net9.0-windows\Dimensionamento Serbatoi.pdb
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.Dimensionamento.resources
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.Properties.Resources.resources
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.Risultati_e_Report.resources
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.FormSelezionaTipoCalcolo.resources
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.TipoSerbatorio.resources
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.FormCoperchioBulloni.resources
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.Verifica_Specola.resources
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.FormVerificaParete.resources
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.VerificaPareteEsternaAnello.resources
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento_Serbatoi.VerificaPareteInternaAnello.resources
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.csproj.GenerateResource.cache
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.AssemblyInfoInputs.cache
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.AssemblyInfo.cs
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.csproj.CoreCompileInputs.cache
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.sourcelink.json
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.dll
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\refint\Dimensionamento Serbatoi.dll
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.pdb
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\Dimensionamento Serbatoi.genruntimeconfig.cache
+C:\Users\Vincenzo\git\Dimensionamento-Serbatoi\obj\Debug\net9.0-windows\ref\Dimensionamento Serbatoi.dll

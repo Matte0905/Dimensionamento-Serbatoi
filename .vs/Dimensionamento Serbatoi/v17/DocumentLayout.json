@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\git\\Dimensionamento-Serbatoi\\",
+  "WorkspaceRootPath": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|d:\\git\\dimensionamento-serbatoi\\tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\verificapareteesternaanello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:verificapareteesternaanello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\verificaparete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:verificaparete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\verificapareteinternaanello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:verificapareteinternaanello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\verificaparete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:verificaparete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|d:\\git\\dimensionamento-serbatoi\\tipodicalcolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\tipodicalcolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:tipodicalcolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|D:\\git\\Dimensionamento-Serbatoi\\tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|d:\\git\\dimensionamento-serbatoi\\verificaparete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:verificaparete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +34,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TipoSerbatorio.cs [Progettazione]",
-              "DocumentMoniker": "D:\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
-              "RelativeDocumentMoniker": "TipoSerbatorio.cs",
-              "ToolTip": "D:\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs [Progettazione]",
-              "RelativeToolTip": "TipoSerbatorio.cs [Progettazione]",
+              "Title": "VerificaPareteInternaAnello.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaPareteInternaAnello.cs",
+              "RelativeDocumentMoniker": "VerificaPareteInternaAnello.cs",
+              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaPareteInternaAnello.cs [Progettazione]",
+              "RelativeToolTip": "VerificaPareteInternaAnello.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T17:11:50.17Z",
+              "WhenOpened": "2025-08-03T15:48:08.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VerificaPareteEsternaAnello.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaPareteEsternaAnello.cs",
+              "RelativeDocumentMoniker": "VerificaPareteEsternaAnello.cs",
+              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaPareteEsternaAnello.cs [Progettazione]",
+              "RelativeToolTip": "VerificaPareteEsternaAnello.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:46:56.724Z",
               "EditorCaption": " [Progettazione]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TipoDiCalcolo.cs",
-              "DocumentMoniker": "D:\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs",
-              "RelativeDocumentMoniker": "TipoDiCalcolo.cs",
-              "ToolTip": "D:\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs",
-              "RelativeToolTip": "TipoDiCalcolo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Title": "VerificaParete.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs",
+              "RelativeDocumentMoniker": "VerificaParete.cs",
+              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs [Progettazione]",
+              "RelativeToolTip": "VerificaParete.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:31:47.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T15:46:52.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "TipoDiCalcolo.cs",
+              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs",
+              "RelativeDocumentMoniker": "TipoDiCalcolo.cs",
+              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs",
+              "RelativeToolTip": "TipoDiCalcolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:31:47.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TipoSerbatorio.cs",
-              "DocumentMoniker": "D:\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
+              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
               "RelativeDocumentMoniker": "TipoSerbatorio.cs",
-              "ToolTip": "D:\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
+              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
               "RelativeToolTip": "TipoSerbatorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:56:34.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T16:56:34.219Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "VerificaParete.cs",
-              "DocumentMoniker": "D:\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs",
+              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs",
               "RelativeDocumentMoniker": "VerificaParete.cs",
-              "ToolTip": "D:\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs",
+              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs",
               "RelativeToolTip": "VerificaParete.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T20:12:26.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T20:12:26.084Z"
             }
           ]
         }

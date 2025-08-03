@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\Dimensionamento-Serbatoi\\Dimensionamento Serbatoi.csproj": {}
+    "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\Dimensionamento Serbatoi.csproj": {}
   },
   "projects": {
-    "D:\\git\\Dimensionamento-Serbatoi\\Dimensionamento Serbatoi.csproj": {
+    "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\Dimensionamento Serbatoi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\Dimensionamento-Serbatoi\\Dimensionamento Serbatoi.csproj",
+        "projectUniqueName": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\Dimensionamento Serbatoi.csproj",
         "projectName": "Dimensionamento Serbatoi",
-        "projectPath": "D:\\git\\Dimensionamento-Serbatoi\\Dimensionamento Serbatoi.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\Dimensionamento-Serbatoi\\obj\\",
+        "projectPath": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\Dimensionamento Serbatoi.csproj",
+        "packagesPath": "C:\\Users\\Vincenzo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vincenzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
