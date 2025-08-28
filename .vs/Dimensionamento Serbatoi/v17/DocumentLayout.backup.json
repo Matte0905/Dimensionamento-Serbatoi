@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,26 +42,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TipoDiCalcolo.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs",
-              "RelativeDocumentMoniker": "TipoDiCalcolo.cs",
-              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs [Progettazione]",
-              "RelativeToolTip": "TipoDiCalcolo.cs [Progettazione]",
+              "DocumentIndex": 0,
+              "Title": "TipoSerbatorio.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
+              "RelativeDocumentMoniker": "TipoSerbatorio.cs",
+              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs [Progettazione]",
+              "RelativeToolTip": "TipoSerbatorio.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T16:05:21.073Z"
+              "WhenOpened": "2025-08-28T16:27:14.586Z",
+              "EditorCaption": " [Progettazione]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "VerificaParete.cs",
               "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs",
               "RelativeDocumentMoniker": "VerificaParete.cs",
@@ -70,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "VerificaPareteInternaAnello.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaPareteInternaAnello.cs",
               "RelativeDocumentMoniker": "VerificaPareteInternaAnello.cs",
@@ -81,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "VerificaPareteEsternaAnello.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaPareteEsternaAnello.cs",
               "RelativeDocumentMoniker": "VerificaPareteEsternaAnello.cs",
@@ -92,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "VerificaParete.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs",
               "RelativeDocumentMoniker": "VerificaParete.cs",
@@ -103,28 +104,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TipoDiCalcolo.cs",
               "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs",
               "RelativeDocumentMoniker": "TipoDiCalcolo.cs",
               "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs",
               "RelativeToolTip": "TipoDiCalcolo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:31:47.862Z"
+              "WhenOpened": "2025-07-31T16:31:47.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TipoSerbatorio.cs",
               "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
               "RelativeDocumentMoniker": "TipoSerbatorio.cs",
               "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
               "RelativeToolTip": "TipoSerbatorio.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwEcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAUwFAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T16:56:34.219Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TipoDiCalcolo.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs",
+              "RelativeDocumentMoniker": "TipoDiCalcolo.cs",
+              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs [Progettazione]",
+              "RelativeToolTip": "TipoDiCalcolo.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:05:21.073Z",
+              "EditorCaption": " [Progettazione]"
             }
           ]
         }

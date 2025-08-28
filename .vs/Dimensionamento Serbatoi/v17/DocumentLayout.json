@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\calcoliserbatoio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:calcoliserbatoio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\daticalcolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:daticalcolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\materialidatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:materialidatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\verificaparete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:verificaparete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +27,24 @@
       "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:tipodicalcolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\tipodicalcolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:tipodicalcolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\verificaparete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:verificaparete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\verificapareteesternaanello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:verificapareteesternaanello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\verificapareteinternaanello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:verificapareteinternaanello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\verificaparete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:verificaparete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\verificapareteinternaanello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:verificapareteinternaanello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:tiposerbatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|c:\\users\\vincenzo\\git\\dimensionamento-serbatoi\\risultati e report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:risultati e report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\verificapareteesternaanello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1FD195-26C3-4274-B220-E320A9C832DA}|Dimensionamento Serbatoi.csproj|solutionrelative:verificapareteesternaanello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,6 +59,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CalcoliSerbatoio.cs",
+              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\CalcoliSerbatoio.cs",
+              "RelativeDocumentMoniker": "CalcoliSerbatoio.cs",
+              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\CalcoliSerbatoio.cs",
+              "RelativeToolTip": "CalcoliSerbatoio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:56:28.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaterialiDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\MaterialiDatabase.cs",
+              "RelativeDocumentMoniker": "MaterialiDatabase.cs",
+              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\MaterialiDatabase.cs",
+              "RelativeToolTip": "MaterialiDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:54:41.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Daticalcolo.cs",
+              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\Daticalcolo.cs",
+              "RelativeDocumentMoniker": "Daticalcolo.cs",
+              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\Daticalcolo.cs",
+              "RelativeToolTip": "Daticalcolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:51:17.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VerificaParete.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs",
+              "RelativeDocumentMoniker": "VerificaParete.cs",
+              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs [Progettazione]",
+              "RelativeToolTip": "VerificaParete.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:42:47.47Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Risultati e Report.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\Risultati e Report.cs",
+              "RelativeDocumentMoniker": "Risultati e Report.cs",
+              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\Risultati e Report.cs [Progettazione]",
+              "RelativeToolTip": "Risultati e Report.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T16:37:49.47Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "TipoSerbatorio.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
               "RelativeDocumentMoniker": "TipoSerbatorio.cs",
@@ -58,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "VerificaParete.cs",
               "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs",
               "RelativeDocumentMoniker": "VerificaParete.cs",
@@ -71,74 +146,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "VerificaPareteInternaAnello.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaPareteInternaAnello.cs",
               "RelativeDocumentMoniker": "VerificaPareteInternaAnello.cs",
               "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaPareteInternaAnello.cs [Progettazione]",
               "RelativeToolTip": "VerificaPareteInternaAnello.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T15:48:08.51Z"
+              "WhenOpened": "2025-08-03T15:48:08.51Z",
+              "EditorCaption": " [Progettazione]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "VerificaPareteEsternaAnello.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaPareteEsternaAnello.cs",
               "RelativeDocumentMoniker": "VerificaPareteEsternaAnello.cs",
               "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaPareteEsternaAnello.cs [Progettazione]",
               "RelativeToolTip": "VerificaPareteEsternaAnello.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T15:46:56.724Z"
+              "WhenOpened": "2025-08-03T15:46:56.724Z",
+              "EditorCaption": " [Progettazione]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VerificaParete.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs",
-              "RelativeDocumentMoniker": "VerificaParete.cs",
-              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\VerificaParete.cs [Progettazione]",
-              "RelativeToolTip": "VerificaParete.cs [Progettazione]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T15:46:52.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TipoDiCalcolo.cs",
               "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs",
               "RelativeDocumentMoniker": "TipoDiCalcolo.cs",
               "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs",
               "RelativeToolTip": "TipoDiCalcolo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T16:31:47.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TipoSerbatorio.cs",
               "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
               "RelativeDocumentMoniker": "TipoSerbatorio.cs",
               "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoSerbatorio.cs",
               "RelativeToolTip": "TipoSerbatorio.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAUwFAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T16:56:34.219Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TipoDiCalcolo.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs",
-              "RelativeDocumentMoniker": "TipoDiCalcolo.cs",
-              "ToolTip": "C:\\Users\\Vincenzo\\git\\Dimensionamento-Serbatoi\\TipoDiCalcolo.cs [Progettazione]",
-              "RelativeToolTip": "TipoDiCalcolo.cs [Progettazione]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T16:05:21.073Z",
-              "EditorCaption": " [Progettazione]"
             }
           ]
         }

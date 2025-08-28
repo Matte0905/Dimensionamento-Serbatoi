@@ -18,8 +18,6 @@ namespace Dimensionamento_Serbatoi
             return (tVerify >= 0.5 * rInt || p >= 0.385 * se) ? "Parete Spessa" : "Parete Sottile";
         }
 
-
-
         // Determina la modalità di calcolo per guscio cilindrico PED
         public string DeterminePedShellMode(double dInt, double tVerify, double p, double f, double z)
         {
