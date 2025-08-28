@@ -1,63 +1,72 @@
 ﻿namespace Dimensionamento_Serbatoi {
-    public partial class TipoSerbatorio : Form {
+    public partial class TipoSerbatorio : Form
+    {
         FormVerificaParete formVerificaParete = new();
 
         public string tipoNormativa = string.Empty;
         public string tipoCilindro = string.Empty;
         public string tipoSerbatorio = string.Empty;
 
-        public TipoSerbatorio() {
+        public TipoSerbatorio()
+        {
             InitializeComponent();
             this.Load += TipoSerbatorio_Load;
         }
 
-        private void TipoSerbatorio_Load(object? sender, EventArgs e) {
-            if (!string.IsNullOrEmpty(tipoNormativa)) {
+        private void TipoSerbatorio_Load(object? sender, EventArgs e)
+        {
+            if (!string.IsNullOrEmpty(tipoNormativa))
+            {
                 lblTitolo.Text += " " + $"({tipoNormativa})";
 
             }
         }
 
-        private void btnSuccessivo_Click(object sender, EventArgs e) {
+        private void btnSuccessivo_Click(object sender, EventArgs e)
+        {
 
-            switch (true) {
+            switch (true)
+            {
                 case var _ when radioBtnTorisferico.Checked:
-                tipoSerbatorio = "Torisferico";
-                break;
+                    tipoSerbatorio = "Torisferico";
+                    break;
 
                 case var _ when radioBtnEllisoidale.Checked:
-                tipoCilindro = "Ellisoidale";
-                break;
+                    tipoCilindro = "Ellisoidale";
+                    break;
 
                 case var _ when radioBtnEmisferico.Checked:
-                tipoCilindro = "Emisferico";
-                break;
+                    tipoCilindro = "Emisferico";
+                    break;
 
                 case var _ when radioBtnConico.Checked:
-                tipoCilindro = "Conico";
-                break;
+                    tipoCilindro = "Conico";
+                    break;
 
                 case var _ when radioBtnFondoPiatto.Checked:
-                tipoCilindro = "Piatto";
-                break;
+                    tipoCilindro = "Piatto";
+                    break;
 
                 case var _ when radioBtnSferico.Checked:
-                tipoSerbatorio = "Sferico";
-                break;
+                    tipoSerbatorio = "Sferico";
+                    break;
 
                 case var _ when radioBtnAnello.Checked:
-                tipoCilindro = "Anello";
-                break;
+                    tipoCilindro = "Anello";
+                    break;
 
 
             }
-            if (tipoSerbatorio == "Anello") {
+            if (tipoSerbatorio == "Anello")
+            {
                 this.Hide();
                 formVerificaParete.tipoNormativa = tipoNormativa;
                 formVerificaParete.tipoCilindro = tipoCilindro;
                 formVerificaParete.tipoSerbatorio = tipoSerbatorio;
                 formVerificaParete.Show();
-            } else {
+            }
+            else
+            {
                 this.Hide();
                 formVerificaParete.tipoNormativa = tipoNormativa;
                 formVerificaParete.tipoCilindro = tipoCilindro;
@@ -66,9 +75,9 @@
             }
         }
 
-        //private void btnPrecedente_Click(object sender, EventArgs e) {
-        //    this.Hide();
-        //    formSelezionaTipoCalcolo.Show();
-        //}
+        private void btnPrecedente_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
